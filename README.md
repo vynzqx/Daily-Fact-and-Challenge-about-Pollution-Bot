@@ -6,10 +6,12 @@ Together, we can make big changes—one step at a time!”
 ## Features
 * Tell facts about Pollution
 * Little Daily Challenges
+* Show some poster about pollution
 
 ## Technology
 * discord.py
 * random
+* os
 
 ## How to
 Install this: `pip install discord.py`
